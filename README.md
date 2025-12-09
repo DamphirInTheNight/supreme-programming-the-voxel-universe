@@ -14,15 +14,10 @@ Electron energy levels are quantized. Atoms are quantized.
 If true mathematical continuity existed in reality, there would be infinite points between point A and point B.
 And if there are infinite points between two points, starting at A, we could never reach B.
 
-I hypothesize that not only "full" matter is quantized like material objects, but empty space as well.
-As if there existed a finite grid of voxels: the "minimal cube", the elementary unit of the universe.
-
-I hypothesize that the only possible structure for a reality like ours is, in fact, the result of discrete algorithmic laws operating on a grid of extremely small units, immutable both in size and in position.
-
 # Core Hypothesis
 
-I hypothesize that not only “full” matter is quantized, but empty space itself is quantized.
-As if there exists a finite grid of voxels: the minimal cube, the elementary unit of the universe.
+I hypothesize that not only "full" matter is quantized like material objects, but empty space as well.
+As if there existed a finite grid of voxels: the "minimal cube", the elementary unit of the universe.
 
 I propose that the only viable structure for a universe like ours is the result of discrete algorithmic laws operating on a grid of extremely small, immutable units—fixed both in size and position.
 
