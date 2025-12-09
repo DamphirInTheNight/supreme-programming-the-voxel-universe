@@ -23,7 +23,7 @@ I propose that the only viable structure for a universe like ours is the result 
 
 In short: I am increasingly convinced that everything we live in is the result of a supreme form of programming.
 
-#Unexpected Connections
+# Unexpected Connections
 
 After searching for similar ideas (fearing I was being irrational), I discovered that, unintentionally, I had blended:
 
